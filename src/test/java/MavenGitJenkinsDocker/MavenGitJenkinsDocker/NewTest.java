@@ -6,6 +6,6 @@ public class NewTest {
 	
   @Test
   public void f() {
-	  System.out.println("Test for Maven TestNG in docker");
+	  System.out.println("Test for Maven TestNG in docker 111");
   }
 }
